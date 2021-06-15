@@ -1,6 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1544200527/5029/hello_there.gif?1544200527" width="40"/> Hello there !</h1>
-
-### I'm a Backend Developer living in 🇧🇷, currently working with .NET Core 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1544200527/5029/hello_there.gif?1544200527" width="35"/> Hello there !</h1>
 
 ![Snake animation](https://github.com/gabrielrom/gabrielrom/blob/output/github-contribution-grid-snake.svg)
 
