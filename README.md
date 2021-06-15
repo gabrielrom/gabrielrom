@@ -5,7 +5,7 @@
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrom&show_icons=true&theme=dracula&repo=github-readme-stats"/>&nbsp
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrom&theme=dracula&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrom&theme=dracula&layout=compact&repo=github-readme-stats"/>
   </a>
 </p>
 
