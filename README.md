@@ -1,15 +1,14 @@
 ### Hi there 👋
-<head>
- <style>
+
+![Snake animation](https://github.com/gabrielrom/gabrielrom/blob/output/github-contribution-grid-snake.svg)
+
+<style>
   .myDiv {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
    }
  </style>
-</head>
-
-![Snake animation](https://github.com/gabrielrom/gabrielrom/blob/output/github-contribution-grid-snake.svg)
 
 <div class="myDiv">
 
