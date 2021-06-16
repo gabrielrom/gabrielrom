@@ -3,7 +3,7 @@
 ![Snake animation](https://github.com/gabrielrom/gabrielrom/blob/output/github-contribution-grid-snake.svg)
 
 <p>
-  <a href="https://github-readme-stats.vercel.app/">
+  <a href="https://github.com/gabrielrom">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrom&show_icons=true&theme=dracula"/>&nbsp
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrom&theme=dracula&layout=compact"/>
   </a>
